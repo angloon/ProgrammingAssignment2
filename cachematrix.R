@@ -1,7 +1,8 @@
 ## Assignment 2 - Caching inverse of matrix
 
-# Allow to set, get, setinverse, getinverse a matrix
-# eg matrix1 <- makeCacheMatrix(c(1,2,3,4)
+
+## Allow to set, get, setinverse, getinverse a matrix
+## eg matrix1 <- makeCacheMatrix(c(1,2,3,4)
 
 makeCacheMatrix <- function(x = matrix()) {
   inv <- NULL
